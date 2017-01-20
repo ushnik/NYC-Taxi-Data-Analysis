@@ -11,7 +11,7 @@ Using NYC Taxi data available on the NYC Taxi and Limousine Commission website, 
 
 ```{r} 
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Drop%20Off%20weekday.jpg)
 
 ####Install packages: "ggplot2" and "lubridate"
 options(warn=-1)
