@@ -131,6 +131,7 @@ plot1 <- ggplot(data=dfweekday , aes(x=dfweekday$pickup_longitude, y=dfweekday$p
   coord_equal() 
 print(plot1)
 ```
+![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Pick%20Up%20weekday.jpg)
 
 The plot above shows a high concentration of Taxi Pickups in Midtown East, Sutton Place, and areas between 6th and 8th Avenues and W42nd and W58th Streets.
 
@@ -149,6 +150,7 @@ plot2 <- ggplot(data=dfweekday , aes(x=dfweekday$dropoff_longitude, y=dfweekday$
 print(plot2)
 
 ```
+![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Drop%20Off%20weekday.jpg)
 
 The plot above shows a high concentration of Taxi Drop-offs in Central and Eastern Midtown, some of which include the Garment District, Murray Hill, the Times Square Area, Columbus Circle, etc.
 
@@ -172,6 +174,7 @@ plot3 <- ggplot(data=dfweekend , aes(x=dfweekend$pickup_longitude, y=dfweekend$p
 print(plot3)
 
 ```
+![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Pick%20Up%20weekend.jpg)
 
 The weekend pickups show a relatively sparse distribution. Some of the areas with comparatively high pickups include the Times Square Area (a lot of hotels) and Upper Midtown on 5th Avenue (shopping). 
 
@@ -192,6 +195,7 @@ print(plot4)
 
 
 ```
+![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Drop%20Off%20weekend.jpg)
 
 Drop-offs during the weekends are concentrated mostly around the tourist attractions, some of which include Columbus Circle, Times Square and the Rockerfeller Center. People also travel to the St. Patricks Cathedral area on 50th street and Madison Avenue.
 
