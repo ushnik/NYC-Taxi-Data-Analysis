@@ -4,12 +4,6 @@ Using NYC Taxi data available on the NYC Taxi and Limousine Commission website, 
 
 The data has been extracted from http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
----
-title: "BA Pundits"
-author: "Ushnik"
-date: "December 12, 2016"
-output: html_document
----
 
 ##NYC Yellow Taxi Traffic Data Analysis 
 
