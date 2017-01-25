@@ -6,6 +6,7 @@ The data has been extracted from http://www.nyc.gov/html/tlc/html/about/trip_rec
 
 ![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Rplot.pdf)
 
+
 ```{r} 
 
 ####Install packages: "ggplot2" and "lubridate"
