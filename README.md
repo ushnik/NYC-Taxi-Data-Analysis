@@ -4,7 +4,9 @@ Using NYC Taxi data available on the NYC Taxi and Limousine Commission website, 
 
 The data has been extracted from http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
-![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Rplot.pdf)
+NYC Taxi trips mde in June 2016:
+
+![](https://github.com/ushnik/NYC-Taxi-Data-Analysis/blob/master/Rplot.jpg)
 
 
 ```{r} 
